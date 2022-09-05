@@ -1,0 +1,25 @@
+
+
+  @media screen and (max-width: 480px) {
+            .intro{
+                font-size: 40px;
+                justify-content: center;
+            }
+            .intro2{
+                justify-content: left;
+            }
+            .right{
+                font-size: 10px;
+                width: 100%;
+                
+            }
+            .box{
+                width: 50px;
+                height: 50px;
+            }
+            header{
+                height: 300px;
+            }
+            
+            
+  }
